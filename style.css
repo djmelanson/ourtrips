@@ -15,10 +15,8 @@ h2 {
 p {
   padding-left: 15px;
 }
-.container {
-  width: 100%;
-}
 .background {
+  height: 300px;
   width: 100%;
   position: relative;
   text-align: center;
