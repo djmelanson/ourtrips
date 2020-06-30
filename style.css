@@ -1,7 +1,9 @@
-
-<link>@import
-  <link href="https://fonts.googleapis.com/css2?family=Yellowtail&display=swap" rel="stylesheet">
-
+body {
+  background-color: rgba(113, 173, 200, 0.3);
+}
 h1 {
-  font-family: 'Yellowtail', cursive;
+  font-family: apple chancery, cursive;
+}
+h2 {
+  font-family: apple chancery, cursive;
 }
