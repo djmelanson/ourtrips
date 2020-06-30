@@ -22,7 +22,7 @@ p {
   width: 100%;
   position: relative;
   text-align: center;
-  background-image: ("951820009082492817~2.jpg");
+  background-image: url(951820009082492817~2.jpg);
   background-size: cover;
   background-position: center;
   filter: blur(5px);
