@@ -15,13 +15,11 @@ h2 {
 p {
   padding-left: 15px;
 }
-.background {
-  height: 300px;
+.container{
   width: 100%;
   position: relative;
   text-align: center;
-  background-image: url(951820009082492817~2.jpg);
+  background-image: url("951820009082492817~2.jpg");
   background-size: cover;
   background-position: center;
-  filter: blur(5px);
 }
