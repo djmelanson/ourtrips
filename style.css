@@ -12,13 +12,14 @@ h1 {
   left: 50%;
 }
 h2 {
-  font-family: 'apple chancery', cursive;
+  font-family: cursive;
   font-size: 30px;
   padding-left: 50px;
 }
 p li {
-  padding-left: 15px;
-  font-family: 'bradley hand', cursive'
+  padding-left: 25px;
+  font-family: cursive;
+  font-size: 14px;
 }
 .container {
   width: 100%;
