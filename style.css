@@ -16,7 +16,12 @@ h2 {
   font-size: 30px;
   padding-left: 50px;
 }
-p li {
+p {
+  padding-left: 25px;
+  font-family: cursive;
+  font-size: 14px;
+}
+li {
   padding-left: 25px;
   font-family: cursive;
   font-size: 14px;
