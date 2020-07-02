@@ -38,3 +38,6 @@ li {
   margin-top: 0px;
   padding: 0;
   }
+caption {
+  caption-side: top;
+}
