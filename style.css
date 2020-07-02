@@ -52,8 +52,7 @@ a:hover {
   color: red;
   cursor: pointer;
 }
-br {
-  color: black;
-  margin-bottom: 20px;
-  margin-top: 20px;
+#theKnotWeddingLink {
+  display: block;
+  text-align: center;
 }
