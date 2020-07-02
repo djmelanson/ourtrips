@@ -4,6 +4,7 @@ body {
   max-height: 100%;
   margin: 0;
   padding: 0;
+  font-size: 14px;
 }
 h1 {
   font-family: apple chancery, cursive;
@@ -26,11 +27,9 @@ h2 {
 }
 p {
   padding-left: 35px;
-  font-size: 14px;
 }
 li {
   padding-left: 35px;
-  font-size: 14px;
 }
 #countdown {
   text-align: center;
@@ -43,5 +42,8 @@ caption {
   font-weight: bold;
 }
 #table {
-  padding-left: 50px;
+  margin-left: 50px;
+}
+#theKnotWeddingLink {
+  text-align: center;
 }
