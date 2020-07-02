@@ -52,8 +52,9 @@ a:hover {
 #theKnotWeddingLink {
   display: block;
   text-align: center;
+  font-size: 30px;
 }
 br {
   display: block;
-  margin: 10px 10px;
+  margin: 20px 50px 20px 50px;
 }
