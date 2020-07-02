@@ -6,6 +6,10 @@ body {
   padding: 0;
   font-size: 14px;
 }
+div {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
 h1 {
   font-family: apple chancery, cursive;
   font-size: 40px;
@@ -43,9 +47,6 @@ caption {
 }
 #table {
   margin-left: 50px;
-}
-#theKnotWeddingLink {
-  text-align: center;
 }
 a:hover {
   color: red;
