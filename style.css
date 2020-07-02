@@ -25,11 +25,11 @@ h2 {
   padding-left: 50px;
 }
 p {
-  padding-left: 25px;
+  padding-left: 35px;
   font-size: 14px;
 }
 li {
-  padding-left: 25px;
+  padding-left: 35px;
   font-size: 14px;
 }
 #countdown {
@@ -40,4 +40,8 @@ li {
   }
 caption {
   caption-side: top;
+  font-weight: bold;
+}
+#lived {
+  padding-left: 50px;
 }
