@@ -34,8 +34,8 @@ li {
 #countdown {
   text-align: center;
   font-size: 60px;
-  margin-top: 0px;
-  padding: 0;
+  margin: 0px;
+  padding: 0px;
 }
 caption {
   caption-side: top;
