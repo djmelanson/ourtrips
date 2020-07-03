@@ -57,9 +57,18 @@ a:hover {
 }
 #theKnotWeddingLink {
   display: block;
-  text-align: center;
 }
 hr {
   border-top: 1px solid black;
   margin: 30px 30px 30px 30px;
+}
+#navBar {
+  display: inline;
+  background-color: gray;
+  color: black;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+#rightNav {
+  float: right;
 }
