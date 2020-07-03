@@ -62,13 +62,16 @@ hr {
   border-top: 1px solid black;
   margin: 30px 30px 30px 30px;
 }
-#navBar {
+.navBar {
   display: inline;
   background-color: gray;
   color: black;
   padding-top: 15px;
   padding-bottom: 15px;
+  padding-right: 15px;
 }
 #rightNav {
   float: right;
+  padding-right: 0px;
+  padding-left: 15px;
 }
