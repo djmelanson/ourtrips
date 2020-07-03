@@ -31,23 +31,16 @@ p {
 li {
   padding-left: 35px;
 }
-
 #countdown {
-
-position: fixed;
-
-top: 5px;
-
-right: 5px;
-
-font-size: 18px;
-
-margin-top: 0px;
-
-padding: 0;
-
+  margin-top: 0px;
+  padding: 0;
 }
-
+.bottomRight {
+  position: fixed;
+  bottom: 5px;
+  right: 5px;
+  font-size: 18px;
+}
 caption {
   caption-side: top;
   font-weight: bold;
