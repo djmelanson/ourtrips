@@ -31,12 +31,23 @@ p {
 li {
   padding-left: 35px;
 }
+
 #countdown {
-  text-align: center;
-  font-size: 60px;
-  margin-top: 0px;
-  padding: 0;
-  }
+
+position: fixed;
+
+top: 5px;
+
+right: 5px;
+
+font-size: 18px;
+
+margin-top: 0px;
+
+padding: 0;
+
+}
+
 caption {
   caption-side: top;
   font-weight: bold;
