@@ -52,6 +52,7 @@ a:hover {
 #theKnotWeddingLink {
   display: block;
   font-size: 30px;
+  text-align: center;
 }
 hr {
   border-top: 1px solid black;
@@ -66,7 +67,6 @@ hr {
   display: inline;
 }
 .navBar {
-  display: inline;
   padding-top: 15px;
   padding-bottom: 15px;
   padding-right: 15px;
