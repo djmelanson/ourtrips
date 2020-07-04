@@ -72,6 +72,9 @@ hr {
 .navBar {
   float: left;
 }
+.navBar:last-child{ 
+  float: right;
+}
 .navBar a {
   display: block;
   color: white;
