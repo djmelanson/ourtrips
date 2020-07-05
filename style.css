@@ -61,11 +61,6 @@ caption {
   text-align: center;
 }
 
-hr {
-  border-top: 1px solid black;
-  margin: 30px 30px 30px 30px;
-}
-
 ul {
   list-style-type: none;
   margin: 0;
