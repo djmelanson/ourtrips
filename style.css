@@ -71,6 +71,7 @@ ul {
 
 #navBar {
   position: fixed;
+  width: 100%;
 }
 
 li {
