@@ -72,8 +72,11 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #333;
-  position: -webkit-sticky; /* Safari */
+}
+
+#navBar {
   position: sticky;
+  position: -webkit-sticky; /* Safari */
   top: 0;
 }
 
