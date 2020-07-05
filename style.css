@@ -12,6 +12,7 @@ h1 {
   font-size: 40px;
   position: absolute;
   left: 50%;
+  margin-top: 40px;
 }
 
 .container {
