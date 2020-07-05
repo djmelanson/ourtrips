@@ -50,7 +50,7 @@ caption {
   margin-right: auto;
 }
 
-a:hover {
+#theKnotWeddingLink:hover {
   color: red;
   cursor: pointer;
 }
